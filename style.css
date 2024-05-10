@@ -15,7 +15,7 @@ div {
 	position: relative;
 	border: 2px solid black;
 	margin: 10px;
-	height: 200px;
+	height: 150px;
 	background-color: gray;
 }
 p {
@@ -26,10 +26,13 @@ p {
 	float: right;
 	border: 2px solid black;
 	margin: -1.5px;
-	width: 100px;
+	width: 150px;
+	height: 30px;
 	text-align: center;
 	font-weight: bold;
 	background-color: #FFB6C1;
+	font-size: 20px;
+	font-family: fantasy;
 }
 .men2 {
 	float: right;
@@ -55,7 +58,7 @@ p {
 	padding: 5px;
 	border: none;
 	margin: 3px;
-	height: 150px;
+	height: 100px;
 }
 /*desktop version*/
 @media (min-width: 992px) {
